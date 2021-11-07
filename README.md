@@ -4,7 +4,7 @@
 
 ## 📥Requisitos📥
 
-> [Termux Instalado]
+> [Termux Instalado,Bash Instalado]
 
 ## 🔥Instalação:🔥
 
