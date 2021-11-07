@@ -3,9 +3,9 @@ Programa Para Consultar Dados !
 
 ## 📥Requisitos📥
 
-> ** Termux Instalado
+> [Termux Instalado]
 
-> ** Instalação:
+## 🔥Instalação:🔥
 
 ```shell
 $ git clone https://github.com/
