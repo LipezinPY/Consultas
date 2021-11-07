@@ -1,13 +1,15 @@
 # Painel De Consultas Em Bash 
 Programa Para Consultar Dados !
 
-## 🎩Requisitos🎩
+## 📥Requisitos📥
 
-> **Instalar Python3**
+> ** Termux Atualizado 
 > 
-> Para instalar ele, vá ao site oficial do Python. <a target="blank" href="https://www.python.org/">Python Site</a>
+> apt upgrade -y
+> apt update -y
+> apt-get install bash 
 
-Clone o repositório:
+> ** Clone o Repositório:
 
 ```shell
 $ git clone https://github.com/Ahosall/ScriptExecutive
