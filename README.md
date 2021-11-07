@@ -8,6 +8,8 @@ Programa Para Consultar Dados !
 ## 🔥Instalação:🔥
 
 ```shell
-$ git clone https://github.com/
-apt
+apt update -y
+apt upgrade -y 
+apt-get install bash
+bash install.sh
 ```
