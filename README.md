@@ -1,8 +1,7 @@
-# Script Executive
-Programa para gerenciar scripts python. (CLI)
+# Painel De Consultas Em Bash 
+Programa Para Consultar Dados !
 
-## Início
-Primeiramente o mais óbvio o possível. Ter o **Python 3** instalado.
+## 🎩Requisitos🎩
 
 > **Instalar Python3**
 > 
